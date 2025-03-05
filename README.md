@@ -53,6 +53,7 @@ The analysis is based on the **Loan Prediction Dataset** provided in this reposi
 
 ![image](https://github.com/user-attachments/assets/27b1056f-2ef1-4dd4-9d37-e7334a316370)
 
+![image](https://github.com/user-attachments/assets/d918248a-f565-4519-a2af-03f2315dd10a)
 
 ## 🤝 Contributions
 
